@@ -21,4 +21,5 @@ You can quickly confirm your changes by trying to create a group in the IAM user
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ea55156a-ba93-4ca6-99d0-b8a9d00232b2" />
 Select Create group and then name the group 
 <img width="957" height="1080" alt="image" src="https://github.com/user-attachments/assets/e071fb36-b12f-4be3-9e22-158561a9b3c7" />
-The group will not be 
+When you scroll down to the bottom of the page and click "Create user group", you will be shown an error message because you only have read-only permissions
+<img width="1920" height="455" alt="image" src="https://github.com/user-attachments/assets/0fb64813-0ef6-48d4-8025-95fe2fd92c57" />
