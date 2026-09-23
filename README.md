@@ -11,7 +11,7 @@ From here, select the drop-down section for Add permissions and select add permi
 <img width="964" height="1076" alt="image" src="https://github.com/user-attachments/assets/382def94-48d4-430e-8288-9be635a67d4f" />
 You are then taken to a page that gives you three options "Add user to group", "Copy permissions", and "Attach policies directly" select Attach policies directly
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/925b0c9c-b301-49ad-b4d8-559853ac3ea7" />
-From there, you can search through the thousands of existing policies and select the ones you want to add to your user. For this demonstration, I used "IAMReadOnlyAccess" then click next 
+From there, you can search through the many existing policies and select the ones you want to add to your user. For this demonstration, I used "IAMReadOnlyAccess" then click next 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e9d86b1b-f3eb-4f6a-b0a7-9976a9a9ee8f" />
 You are then taken to the review page, where you can verify all your settings before finalizing the permissions
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0f5640d6-e2b4-48be-9f29-e20315d649a2" />
