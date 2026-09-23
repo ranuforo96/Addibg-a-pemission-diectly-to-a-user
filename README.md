@@ -17,3 +17,8 @@ You are then taken to the review page, where you can verify all your settings be
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0f5640d6-e2b4-48be-9f29-e20315d649a2" />
 Policy was successfully added
 <img width="1916" height="525" alt="image" src="https://github.com/user-attachments/assets/146532bd-7a70-4606-b8bd-7a6c0590f5b8" />
+You can quickly confirm your changes by trying to create a group in the IAM users account
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ea55156a-ba93-4ca6-99d0-b8a9d00232b2" />
+Select Create group and then name the group 
+<img width="957" height="1080" alt="image" src="https://github.com/user-attachments/assets/e071fb36-b12f-4be3-9e22-158561a9b3c7" />
+The group will not be 
