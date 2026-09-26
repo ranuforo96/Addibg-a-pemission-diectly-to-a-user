@@ -1,4 +1,4 @@
-# Adding-a-pemission-diectly-to-a-user
+# Adding-a-permission-directly-to-a-user-in-AWS-using-IAM
 Steps to add a permission to a user
 
 From your root account, search for and navigate to IAM
